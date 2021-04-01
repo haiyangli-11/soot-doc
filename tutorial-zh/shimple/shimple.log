@@ -1,0 +1,263 @@
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.3.29)  30 MAR 2021 16:44
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/lihaiyang/program/soot/tutorial/shimple/shimple
+(c:/Users/lihaiyang/program/soot/tutorial/shimple/shimple.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(c:/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (c:/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+) (c:/texlive/2020/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 105.
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+\epsfxsize=\dimen141
+\epsfysize=\dimen142
+) (c:/texlive/2020/texmf-dist/tex/latex/preprint/fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip49
+) (c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2021-03-18 L3 backend support: XeTeX
+ (|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count183
+\l__color_backend_stack_int=\count184
+\g__color_backend_stack_int=\count185
+\g__graphics_track_int=\count186
+\l__pdf_internal_box=\box47
+\g__pdf_backend_object_int=\count187
+\g__pdf_backend_annotation_int=\count188
+\g__pdf_backend_link_int=\count189
+)
+No file shimple.aux.
+\openout1 = `shimple.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 16.
+(c:/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 17.
+
+c:/Users/lihaiyang/program/soot/tutorial/shimple/shimple.tex:17: Undefined control sequence.
+\@author ->Navindra Umanee (\htmladdnormallink 
+                                               {navindra@cs.mcgill.ca}{mailt...
+l.17 \maketitle
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/lihaiyang/program/soot/tutorial/shimple/shimple.tex:44: Undefined control sequence.
+l.44 \htmladdnormallink
+                       {Soot API
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/lihaiyang/program/soot/tutorial/shimple/shimple.tex:46: Undefined control sequence.
+l.46 in the \htmladdnormallink
+                              {soot.shimple
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/lihaiyang/program/soot/tutorial/shimple/shimple.tex:49: Undefined control sequence.
+l.49 \htmladdnormallink
+                       {Shimple}{http://www.sable.mcgill.ca/soot/doc/soot/sh...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/lihaiyang/program/soot/tutorial/shimple/shimple.tex:52: Undefined control sequence.
+l.52 \htmladdnormallink
+                       {ShimpleBody}{http://www.sable.mcgill.ca/soot/doc/soo...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/lihaiyang/program/soot/tutorial/shimple/shimple.tex:54: Undefined control sequence.
+l.54 \htmladdnormallink
+                       {PhiExpr}{http://www.sable.mcgill.ca/soot/doc/soot/sh...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (23.6028pt too wide) in paragraph at lines 43--56
+\TU/lmr/m/n/10 The public API of Shimple is fully described in the Soot API documentationhttp://www.sable.mcgill.ca/soot/doc/.
+ []
+
+
+Overfull \hbox (39.017pt too wide) in paragraph at lines 43--56
+\TU/lmr/m/n/10 In particular, in the soot.shimple packagehttp://www.sable.mcgill.ca/soot/doc/soot/shimple/package-summary.html,
+ []
+
+
+Overfull \hbox (9.875pt too wide) in paragraph at lines 43--56
+\TU/lmr/m/n/10 the Shimplehttp://www.sable.mcgill.ca/soot/doc/soot/shimple/Shimple.html class provides the Shimple gram-
+ []
+
+
+Overfull \hbox (114.14699pt too wide) in paragraph at lines 43--56
+\TU/lmr/m/n/10 mar constructors and various utility functions, the ShimpleBodyhttp://www.sable.mcgill.ca/soot/doc/soot/shimple/ShimpleBody.html
+ []
+
+
+Overfull \hbox (4.77498pt too wide) in paragraph at lines 43--56
+\TU/lmr/m/n/10 class describes Shimple bodies and PhiExprhttp://www.sable.mcgill.ca/soot/doc/soot/shimple/PhiExpr.html
+ []
+
+c:/Users/lihaiyang/program/soot/tutorial/shimple/shimple.tex:59: Undefined control sequence.
+l.59 \htmladdnormallink
+                       {ShimpleLocalDefs}{http://www.sable.mcgill.ca/soot/do...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/lihaiyang/program/soot/tutorial/shimple/shimple.tex:61: Undefined control sequence.
+l.61 \htmladdnormallink
+                       {ShimpleLocalUses}{http://www.sable.mcgill.ca/soot/do...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (0.40498pt too wide) in paragraph at lines 57--63
+\TU/lmr/m/n/10 calUseshttp://www.sable.mcgill.ca/soot/doc/soot/shimple/toolkits/scalar/ShimpleLocalUses.html available
+ []
+
+c:/Users/lihaiyang/program/soot/tutorial/shimple/shimple.tex:67: Undefined control sequence.
+l.67 \htmladdnormallink
+                       {soot.shimple.toolkits.scalar}{http://www.sable.mcgil...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (367.16502pt too wide) in paragraph at lines 64--69
+\TU/lmr/m/n/10 torAndFolder. The latter as well as some simple Shimple analyses are available in package soot.shimple.toolkits.scalarhttp://www.sable.mcgill.ca/soot/doc/soot/shimple/toolkits/scalar/package-
+ []
+
+c:/Users/lihaiyang/program/soot/tutorial/shimple/shimple.tex:74: Undefined control sequence.
+l.74 \htmladdnormallink
+                       {primary}{http://www.sable.mcgill.ca/soot/\#documenta...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (161.257pt too wide) in paragraph at lines 72--76
+\TU/lmr/m/n/10 For a full description of the options and phases pertaining to Shimple, please consult the primaryhttp://www.sable.mcgill.ca/soot/#documentation
+ []
+
+[1
+
+] [2] [3] [4] [5]
+c:/Users/lihaiyang/program/soot/tutorial/shimple/shimple.tex:373: Undefined control sequence.
+l.373 \htmladdnormallink
+                        {soot-list@sable.mcgill.ca}{mailto:soot-list@sable.m...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/lihaiyang/program/soot/tutorial/shimple/shimple.tex:375: Undefined control sequence.
+l.375 \htmladdnormallink
+                        {navindra@cs.mcgill.ca}{mailto:navindra@cs.mcgill.ca}.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (126.70699pt too wide) in paragraph at lines 371--376
+\TU/lmr/m/n/10 list at soot-list@sable.mcgill.camailto:soot-list@sable.mcgill.ca, or directly to myself at navindra@cs.mcgill.camailto:navindra@cs.mcgill.ca. 
+ []
+
+[6] [7] (./shimple.aux) ) 
+Here is how much of TeX's memory you used:
+ 1109 strings out of 476930
+ 16744 string characters out of 5825868
+ 321359 words of memory out of 5000000
+ 21134 multiletter control sequences out of 15000+600000
+ 406238 words of font info for 45 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 83i,6n,88p,265b,257s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on shimple.pdf (7 pages).

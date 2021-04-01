@@ -1,0 +1,128 @@
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.3.29)  30 MAR 2021 16:44
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/lihaiyang/program/soot/tutorial/tagclass/tagclass
+(c:/Users/lihaiyang/program/soot/tutorial/tagclass/tagclass.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(c:/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (c:/texlive/2020/texmf-dist/tex/latex/preprint/fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip49
+) (c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2021-03-18 L3 backend support: XeTeX
+ (|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count183
+\l__color_backend_stack_int=\count184
+\g__color_backend_stack_int=\count185
+\g__graphics_track_int=\count186
+\l__pdf_internal_box=\box47
+\g__pdf_backend_object_int=\count187
+\g__pdf_backend_annotation_int=\count188
+\g__pdf_backend_link_int=\count189
+)
+No file tagclass.aux.
+\openout1 = `tagclass.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 10.
+(c:/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 12.
+
+c:/Users/lihaiyang/program/soot/tutorial/tagclass/tagclass.tex:12: Undefined control sequence.
+\@author ->Chris Goard (\htmladdnormallink 
+                                           {cgoard@sable.mcgill.ca}{mailto:c...
+l.12 \maketitle
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[1
+
+] [2] [3] [4]
+c:/Users/lihaiyang/program/soot/tutorial/tagclass/tagclass.tex:282: Undefined control sequence.
+l.282  \htmladdnormallink
+                         {\tt http://www.sable.mcgill.ca/soot/tutorial/tagcl...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[5]
+Overfull \hbox (2.74498pt too wide) in paragraph at lines 480--480
+[]                \TU/lmtt/m/n/10 Arrays.asList(new Type[] {ArrayType.v(RefType.v("java.lang.String"), 1)}),[] 
+ []
+
+[6]
+Overfull \hbox (28.99498pt too wide) in paragraph at lines 480--480
+[]                \TU/lmtt/m/n/10 arg = Jimple.v().newLocal("l0", ArrayType.v(RefType.v("java.lang.String"), 1));[] 
+ []
+
+
+Overfull \hbox (49.99498pt too wide) in paragraph at lines 480--480
+[]                     \TU/lmtt/m/n/10 Jimple.v().newParameterRef(ArrayType.v(RefType.v("java.lang.String"), 1), 0));[] 
+ []
+
+
+Overfull \hbox (49.99498pt too wide) in paragraph at lines 480--480
+[]                    \TU/lmtt/m/n/10 Scene.v().getField("<java.lang.System: java.io.PrintStream out>").makeRef())));[] 
+ []
+
+
+Overfull \hbox (34.24498pt too wide) in paragraph at lines 480--480
+[]        \TU/lmtt/m/n/10 String fileName = SourceLocator.v().getFileNameFor(sClass, Options.output_format_class);[] 
+ []
+
+[7] [8] [9] (./tagclass.aux) ) 
+Here is how much of TeX's memory you used:
+ 496 strings out of 476930
+ 9797 string characters out of 5825868
+ 317158 words of memory out of 5000000
+ 20549 multiletter control sequences out of 15000+600000
+ 406230 words of font info for 44 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 44i,6n,50p,204b,257s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on tagclass.pdf (9 pages).

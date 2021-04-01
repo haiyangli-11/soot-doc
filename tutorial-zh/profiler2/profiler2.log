@@ -1,0 +1,137 @@
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.3.29)  30 MAR 2021 16:43
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/lihaiyang/program/soot/tutorial/profiler2/profiler2
+(c:/Users/lihaiyang/program/soot/tutorial/profiler2/profiler2.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(c:/texlive/2020/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (c:/texlive/2020/texmf-dist/tex/latex/preprint/fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip49
+) (c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2021-03-18 L3 backend support: XeTeX
+ (|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count183
+\l__color_backend_stack_int=\count184
+\g__color_backend_stack_int=\count185
+\g__graphics_track_int=\count186
+\l__pdf_internal_box=\box47
+\g__pdf_backend_object_int=\count187
+\g__pdf_backend_annotation_int=\count188
+\g__pdf_backend_link_int=\count189
+)
+No file profiler2.aux.
+\openout1 = `profiler2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 6.
+(c:/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 24.
+
+Overfull \hbox (26.79256pt too wide) in paragraph at lines 22--27
+[]\TU/lmr/m/n/12 In this tutorial, I am making an example slightly different from the example \TU/lmtt/m/n/12 GotoInstrumenter
+ []
+
+[1
+
+] [2]
+Overfull \hbox (18.46486pt too wide) in paragraph at lines 119--119
+[]    \TU/lmtt/m/n/12 12        System.err.println("Usage: java MainDriver [options] classname");[] 
+ []
+
+
+Overfull \hbox (6.10486pt too wide) in paragraph at lines 258--258
+[]     \TU/lmtt/m/n/12 7   *   Insert counter instruction before static invocation instruction.[] 
+ []
+
+[3]
+Overfull \hbox (18.46489pt too wide) in paragraph at lines 258--258
+[]    \TU/lmtt/m/n/12 22  /* InvokeStaticInstrumenter extends the abstract class BodyTransformer,[] 
+ []
+
+
+Overfull \hbox (37.00485pt too wide) in paragraph at lines 258--258
+[]    \TU/lmtt/m/n/12 45    protected void internalTransform(Body body, String phase, Map options) {[] 
+ []
+
+
+Overfull \hbox (37.00485pt too wide) in paragraph at lines 258--258
+[]    \TU/lmtt/m/n/12 50      System.out.println("instrumenting method : " + method.getSignature());[] 
+ []
+
+[4]
+Overfull \hbox (92.61287pt too wide) in paragraph at lines 258--258
+[]    \TU/lmtt/m/n/12 86        InvokeExpr incExpr= Jimple.v().newStaticInvokeExpr(increaseCounter.makeRef(),[] 
+ []
+
+[5]
+Overfull \hbox (18.46489pt too wide) in paragraph at lines 258--258
+[]   \TU/lmtt/m/n/12 102      boolean isMain = signature.equals("void main(java.lang.String[])");[] 
+ []
+
+
+Overfull \hbox (129.70486pt too wide) in paragraph at lines 258--258
+[]   \TU/lmtt/m/n/12 115            InvokeExpr reportExpr= Jimple.v().newStaticInvokeExpr(reportCounter.makeRef());[] 
+ []
+
+
+Overfull \hbox (6.10492pt too wide) in paragraph at lines 280--280
+[]\TU/lmtt/m/n/12 Transforming TestInvoke... instrumenting method : <TestInvoke: void <init>()>[] 
+ []
+
+[6] [7] [8] [9] (./profiler2.aux) ) 
+Here is how much of TeX's memory you used:
+ 506 strings out of 476930
+ 10087 string characters out of 5825868
+ 316189 words of memory out of 5000000
+ 20555 multiletter control sequences out of 15000+600000
+ 407159 words of font info for 49 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 44i,8n,50p,202b,259s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on profiler2.pdf (9 pages).

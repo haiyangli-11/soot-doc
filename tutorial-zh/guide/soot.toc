@@ -1,0 +1,46 @@
+\contentsline {section}{\numberline {1}Introduction}{4}{}%
+\contentsline {subsection}{\numberline {1.1}Setting up Soot}{4}{}%
+\contentsline {subsection}{\numberline {1.2}Road-map to this guide}{5}{}%
+\contentsline {section}{\numberline {2}Basic Soot Constructs}{6}{}%
+\contentsline {subsection}{\numberline {2.1}Method bodies}{6}{}%
+\contentsline {subsection}{\numberline {2.2}Statements}{6}{}%
+\contentsline {section}{\numberline {3}Intermediate Representations}{7}{}%
+\contentsline {subsection}{\numberline {3.1}Baf}{7}{}%
+\contentsline {subsection}{\numberline {3.2}Jimple}{8}{}%
+\contentsline {subsection}{\numberline {3.3}Shimple}{10}{}%
+\contentsline {subsection}{\numberline {3.4}Grimp}{14}{}%
+\contentsline {section}{\numberline {4}Soot as a stand-alone tool}{15}{}%
+\contentsline {paragraph}{Class categorization.}{15}{}%
+\contentsline {paragraph}{Input options.}{16}{}%
+\contentsline {paragraph}{Output options.}{16}{}%
+\contentsline {subsection}{\numberline {4.1}Soot phases}{17}{}%
+\contentsline {paragraph}{Inter-procedural analysis}{17}{}%
+\contentsline {paragraph}{Phase options.}{18}{}%
+\contentsline {subsection}{\numberline {4.2}Off-The-Shelf Analyses}{19}{}%
+\contentsline {paragraph}{Null Pointer Analysis.}{19}{}%
+\contentsline {paragraph}{Array Bounds Analysis.}{19}{}%
+\contentsline {paragraph}{Liveness Analysis.}{20}{}%
+\contentsline {subsection}{\numberline {4.3}Extending Soot's Main class}{20}{}%
+\contentsline {section}{\numberline {5}The Data-Flow Framework}{21}{}%
+\contentsline {subsection}{\numberline {5.1}Step 1: Nature of the analysis}{21}{}%
+\contentsline {subsection}{\numberline {5.2}Step 2: Approximation level}{22}{}%
+\contentsline {subsection}{\numberline {5.3}Step 3: Performing flow}{22}{}%
+\contentsline {subsection}{\numberline {5.4}Step 4: Initial state}{23}{}%
+\contentsline {subsection}{\numberline {5.5}Limitations}{23}{}%
+\contentsline {subsection}{\numberline {5.6}Flow sets}{24}{}%
+\contentsline {subsection}{\numberline {5.7}Control flow graphs}{25}{}%
+\contentsline {subsection}{\numberline {5.8}Wrapping the results of the analysis}{26}{}%
+\contentsline {section}{\numberline {6}Annotating code}{27}{}%
+\contentsline {subsection}{\numberline {6.1}Transformers}{28}{}%
+\contentsline {subsection}{\numberline {6.2}Annotating very-busy expressions}{28}{}%
+\contentsline {section}{\numberline {7}Call Graph Construction}{29}{}%
+\contentsline {subsection}{\numberline {7.1}Call Graph Representation}{31}{}%
+\contentsline {subsection}{\numberline {7.2}More specific information}{31}{}%
+\contentsline {section}{\numberline {8}Points-To Analysis}{32}{}%
+\contentsline {subsection}{\numberline {8.1}SPARK}{33}{}%
+\contentsline {subsection}{\numberline {8.2}Paddle}{36}{}%
+\contentsline {subsection}{\numberline {8.3}What to do with the points-to sets?}{41}{}%
+\contentsline {section}{\numberline {9}Extracting Abstract Control-Flow Graphs}{42}{}%
+\contentsline {subsection}{\numberline {9.1}The Abstract Foo Control-flow Graph}{42}{}%
+\contentsline {subsection}{\numberline {9.2}Implementation}{43}{}%
+\contentsline {section}{\numberline {10}Conclusion}{45}{}%
