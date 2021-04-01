@@ -1,0 +1,547 @@
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.3.29)  30 MAR 2021 16:39
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/lihaiyang/program/soot/tutorial/guide/soot
+(c:/Users/lihaiyang/program/soot/tutorial/guide/soot.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(c:/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (c:/texlive/2020/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2020/08/26 v5.0i Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+\epsfxsize=\dimen141
+\epsfysize=\dimen142
+) (c:/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+
+
+c:/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty:165: Package inputenc Error: inputenc is not designed for xetex or luatex.
+(inputenc)                only UTF-8 supported.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.165 \endinput
+               
+For xelatex or lualatex save the document in UTF-8 encoding
+and do not use inputenc, or use the [utf8] option.
+
+) (c:/texlive/2020/texmf-dist/tex/latex/base/alltt.sty
+Package: alltt 1997/06/16 v2.0g defines alltt environment
+) (c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen143
+)) (c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen144
+) (c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count183
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count184
+\leftroot@=\count185
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count186
+\DOTSCASE@=\count187
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen145
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count188
+\c@MaxMatrixCols=\count189
+\dotsspace@=\muskip16
+\c@parentequation=\count190
+\dspbrk@lvl=\count191
+\tag@help=\toks19
+\row@=\count192
+\column@=\count193
+\maxfields@=\count194
+\andhelp@=\toks20
+\eqnshift@=\dimen146
+\alignsep@=\dimen147
+\tagshift@=\dimen148
+\tagwidth@=\dimen149
+\totwidth@=\dimen150
+\lineht@=\dimen151
+\@envbody=\toks21
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+) (c:/texlive/2020/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (./bnf.sty) (c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2021-03-18 L3 backend support: XeTeX
+ (|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count195
+\l__color_backend_stack_int=\count196
+\g__color_backend_stack_int=\count197
+\g__graphics_track_int=\count198
+\l__pdf_internal_box=\box49
+\g__pdf_backend_object_int=\count199
+\g__pdf_backend_annotation_int=\count266
+\g__pdf_backend_link_int=\count267
+)
+No file soot.aux.
+\openout1 = `soot.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 28.
+(c:/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+ [1
+
+]
+No file soot.toc.
+\tf@toc=\write3
+\openout3 = `soot.toc'.
+
+[2]
+Invalid UTF-8 byte or sequence at line 64 replaced by U+FFFD.
+Missing character: There is no � in font [lmroman10-regular]:mapping=tex-text;!
+ [3]
+
+LaTeX Warning: Citation `vall99soot' on page 4 undefined on input line 74.
+
+
+LaTeX Warning: Citation `sanote' on page 4 undefined on input line 81.
+
+[4]
+Overfull \hbox (4.21004pt too wide) in paragraph at lines 174--177
+[]\TU/lmr/m/n/10 describes how to access a call graph during a whole-
+ []
+
+[5]
+
+LaTeX Warning: Citation `strings2003' on page 6 undefined on input line 184.
+
+[6] [7]
+
+LaTeX Warning: Citation `gagnon99intraprocedural' on page 8 undefined on input line 334.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--343
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--354
+
+ []
+
+[8]
+
+LaTeX Warning: Reference `section:soottool' on page 9 undefined on input line 378.
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 436--438
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 444--448
+
+ []
+
+
+Overfull \hbox (8.77pt too wide) in paragraph at lines 449--453
+[]\TU/lmr/m/n/10 The Jimple intermediate representation is available in the packages soot.jimple,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 462--465
+
+ []
+
+[10] [11]
+
+LaTeX Warning: Citation `bilardi99static' on page 12 undefined on input line 563.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 556--564
+
+ []
+
+[12] [13]
+Underfull \hbox (badness 10000) in paragraph at lines 639--641
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 690--694
+
+ []
+
+
+Overfull \hbox (6.82pt too wide) in paragraph at lines 695--698
+[]\TU/lmr/m/n/10 The Grimp intermediate representation is available in the packages soot.grimp,
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 740--746
+
+ []
+
+
+Overfull \hbox (2.3pt too wide) in paragraph at lines 758--765
+[]\TU/lmr/m/n/10 The argument classes are the classes you specify to Soot. Using the command-
+ []
+
+[15]
+Overfull \hbox (1.39pt too wide) in paragraph at lines 780--782
+[]\TU/lmr/m/n/10 Soot provides further options to influence which classes are application classes
+ []
+
+
+Overfull \hbox (6.75894pt too wide) in paragraph at lines 797--799
+[]\TU/lmr/m/n/10 Sets PATH as
+ []
+
+[16]
+
+LaTeX Warning: Reference `fig:intrap_packs' on page 17 undefined on input line 849.
+
+File: figures/intrap_packs.eps Graphic file (type eps)
+<figures/intrap_packs.eps>
+
+LaTeX Warning: Citation `tutorial' on page 17 undefined on input line 858.
+
+
+LaTeX Warning: Reference `fig:interp_packs' on page 17 undefined on input line 877.
+
+[17]
+File: figures/interp_packs.eps Graphic file (type eps)
+<figures/interp_packs.eps>
+
+
+LaTeX Warning: Citation `tutorial' on page 18 undefined on input line 884.
+
+[18]
+
+LaTeX Warning: Reference `fig:npcolorer' on page 19 undefined on input line 945.
+
+File: figures/npcolorer.eps Graphic file (type eps)
+<figures/npcolorer.eps>
+[19] [20]
+Overfull \hbox (9.7521pt too wide) in paragraph at lines 1075--1075
+[]\TU/lmtt/m/n/10 class VeryBusyExpressionAnalysis extends BackwardFlowAnalysis[] 
+ []
+
+[21]
+
+LaTeX Warning: Reference `section:cfg' on page 22 undefined on input line 1093.
+
+
+LaTeX Warning: Reference `section:flowsets' on page 22 undefined on input line 1121.
+
+[22]
+Overfull \hbox (8.25105pt too wide) in paragraph at lines 1157--1157
+[]\TU/lmtt/m/n/10 protected void flowThrough(Object in, Object node, Object out) {[] 
+ []
+
+
+LaTeX Warning: Reference `section:flowsets' on page 23 undefined on input line 1190.
+
+[23]
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <9> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 1222.
+
+Overfull \hbox (5.29703pt too wide) in paragraph at lines 1237--1240
+[]\TU/lmr/m/n/10 Soot provides four implementations of flow sets: \TU/lmtt/m/n/9 ArraySparseSet\TU/lmr/m/n/10 , \TU/lmtt/m/n/9 ArrayPacked-
+ []
+
+[24]
+Overfull \hbox (4.75003pt too wide) in paragraph at lines 1295--1301
+\TU/lmtt/m/n/9 soot.toolkits.graph\TU/lmr/m/n/10 . At the base of these graphs sits the interface \TU/lmtt/m/n/9 DirectedGraph\TU/lmr/m/n/10 ;
+ []
+
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 1313.
+[25] [26]
+
+LaTeX Warning: Reference `section:vbeannot' on page 27 undefined on input line 1409.
+
+
+LaTeX Warning: Citation `pominville00framework' on page 27 undefined on input line 1415.
+
+
+LaTeX Warning: Reference `section:transf' on page 27 undefined on input line 1437.
+
+[27]
+
+LaTeX Warning: Citation `lhot.lhot.ea04' on page 28 undefined on input line 1450.
+
+
+Overfull \hbox (4.5021pt too wide) in paragraph at lines 1513--1513
+[]    \TU/lmtt/m/n/10 veryBusyExps <- busy exps after ut according to analysis[] 
+ []
+
+[28]
+
+LaTeX Warning: Reference `section:soottool' on page 29 undefined on input line 1519.
+
+
+LaTeX Warning: Reference `fig:settingmain' on page 29 undefined on input line 1529.
+
+
+LaTeX Warning: Reference `fig:vberun' on page 29 undefined on input line 1529.
+
+File: figures/settingmain.eps Graphic file (type eps)
+<figures/settingmain.eps>
+File: figures/vberun.eps Graphic file (type eps)
+<figures/vberun.eps>
+
+Overfull \hbox (51.7521pt too wide) in paragraph at lines 1580--1580
+[]\TU/lmtt/m/n/10 SootMethod src = Scene.v().getMainClass().getMethodByName("doStuff");[] 
+ []
+
+[29]
+
+LaTeX Warning: Reference `sec:points:to:analysis' on page 30 undefined on input line 1584.
+
+[30]
+Overfull \hbox (15.0021pt too wide) in paragraph at lines 1629--1629
+[]    \TU/lmtt/m/n/10 System.out.println(target + " might be called by " + src);[] 
+ []
+
+[31]
+
+LaTeX Warning: Citation `sanote' on page 32 undefined on input line 1702.
+
+[32]
+Underfull \hbox (badness 10000) in paragraph at lines 1726--1730
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1732--1738
+
+ []
+
+
+LaTeX Warning: Citation `lhotak-phd' on page 33 undefined on input line 1741.
+
+
+LaTeX Warning: Reference `fig:container:class' on page 33 undefined on input line 1743.
+
+
+LaTeX Warning: Reference `fig:item:class' on page 33 undefined on input line 1744.
+
+
+LaTeX Warning: Reference `fig:container:class' on page 33 undefined on input line 1775.
+
+
+LaTeX Warning: Reference `fig:test1:go' on page 33 undefined on input line 1779.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1803--1810
+
+ []
+
+
+LaTeX Warning: Reference `fig:test1:go' on page 33 undefined on input line 1813.
+
+
+LaTeX Warning: Reference `fig:soot:loadclass' on page 33 undefined on input line 1816.
+
+[33]
+
+LaTeX Warning: Reference `fig:spark:opt' on page 34 undefined on input line 1840.
+
+
+LaTeX Warning: Citation `lhotak-msc' on page 34 undefined on input line 1845.
+
+
+Overfull \hbox (0.77094pt too wide) in paragraph at lines 1851--1854
+[]\TU/lmr/m/n/10 SPARK supports two points-to set propagation algorithms, a naïve
+ []
+
+[34]
+
+LaTeX Warning: Reference `fig:SPARK:output:test1' on page 35 undefined on input line 1896.
+
+[35]
+
+LaTeX Warning: Citation `bern.lhot.ea03' on page 36 undefined on input line 1957.
+
+
+LaTeX Warning: Citation `bern.lhot.ea03' on page 36 undefined on input line 1961.
+
+[36]
+
+LaTeX Warning: Citation `jedd' on page 37 undefined on input line 1967.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1996--2001
+[]\TU/lmr/m/n/10 Download the zChaff SAT solver from
+ []
+
+[37]
+
+LaTeX Warning: Reference `fig:test1:go' on page 38 undefined on input line 2052.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2051--2054
+
+ []
+
+
+LaTeX Warning: Reference `fig:paddle:options' on page 38 undefined on input line 2062.
+
+[38]
+
+LaTeX Warning: Citation `lhotak-phd' on page 39 undefined on input line 2106.
+
+
+LaTeX Warning: Reference `fig:test1:go' on page 39 undefined on input line 2112.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2109--2122
+
+ []
+
+
+LaTeX Warning: Reference `fig:test1:go' on page 39 undefined on input line 2155.
+
+
+LaTeX Warning: Reference `fig:test1:go' on page 39 undefined on input line 2158.
+
+
+LaTeX Warning: Reference `fig:SPARK:output:test1' on page 39 undefined on input line 2163.
+
+[39]
+
+LaTeX Warning: Reference `fig:test1:go' on page 40 undefined on input line 2169.
+
+
+LaTeX Warning: Reference `fig:SPARK:output:test1' on page 40 undefined on input line 2171.
+
+
+LaTeX Warning: Reference `fig:paddle:test1:expectedoutput' on page 40 undefined on input line 2185.
+
+[40]
+Underfull \hbox (badness 10000) in paragraph at lines 2187--2191
+
+ []
+
+[41]
+
+LaTeX Warning: Citation `strings2003' on page 42 undefined on input line 2310.
+
+
+LaTeX Warning: Reference `fig:foo:class' on page 42 undefined on input line 2334.
+
+
+LaTeX Warning: Reference `fig:stmt:bnf' on page 42 undefined on input line 2347.
+
+
+LaTeX Warning: Reference `fig:stmt:bnf' on page 42 undefined on input line 2354.
+
+[42]
+Underfull \hbox (badness 10000) in paragraph at lines 2420--2442
+
+ []
+
+[43]
+Underfull \hbox (badness 10000) in paragraph at lines 2444--2452
+
+ []
+
+
+Overfull \hbox (0.79501pt too wide) in paragraph at lines 2453--2462
+[]\TU/lmr/m/n/10 Soot provides infrastructure for the translation. Especially the \TU/lmtt/m/n/9 AbstractStmt-
+ []
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 2453--2462
+\TU/lmtt/m/n/9 Switch \TU/lmr/m/n/10 and the \TU/lmtt/m/n/9 soot.jimple.AbstractJimpleValueSwitch \TU/lmr/m/n/10 classes are useful.
+ []
+
+[44] [45]
+No file soot.bbl.
+(./soot.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1816 strings out of 476930
+ 26567 string characters out of 5825868
+ 341925 words of memory out of 5000000
+ 21783 multiletter control sequences out of 15000+600000
+ 408591 words of font info for 65 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 83i,8n,88p,380b,306s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on soot.pdf (45 pages).
